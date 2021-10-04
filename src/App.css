@@ -4,18 +4,21 @@
 }
 
 body {
-  background-color: #413836;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0debd689-2586-47cf-afdc-a03706f06d6b/dearnyh-0a4c2404-ae78-4cc4-a14b-222e94f6a680.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkZWJkNjg5LTI1ODYtNDdjZi1hZmRjLWEwMzcwNmYwNmQ2YlwvZGVhcm55aC0wYTRjMjQwNC1hZTc4LTRjYzQtYTE0Yi0yMjJlOTRmNmE2ODAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i6m0Mb8_zu9gdR3tssWsPOwg0G3loyFrtM9stLSnKIE");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
 }
 
 .product {
   display: block;
   margin-top: 15px;
   margin-bottom: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 15px;
   background-color: #654c4e;
-  height: 250px;
+  height: 300px;
   width: 200px;
   text-align: center;
   color: #b3a1a0;
